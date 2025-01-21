@@ -96,7 +96,6 @@ export default sendMail
 
 ```
 ### step 7
-
 create the user.controllers file.
 here i create the registration logic for register a user. in this i use sendMail middlewaire to generate and send otp to users gmail
 
@@ -149,3 +148,7 @@ export const register = async (req, res) => {
 }
 
 ```
+
+### step 8
+Now create verification route or verification user controllers in user.controllers.js file
+
