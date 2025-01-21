@@ -20,3 +20,5 @@ const TryCatch = (handler) => {
 
 export default TryCatch
 ```
+
+Import that file and use any where you want
