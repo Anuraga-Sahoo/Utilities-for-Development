@@ -20,6 +20,6 @@ create a .env file and paste that on .env like this and remove the blank spaces.
 GMAIL_PASSWORD = kfzdrfwibywhriuri
 GMAIL = example@gmail.com
 
-
+```
 ```bash
 const nodemailer = require('nodemailer');
